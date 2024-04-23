@@ -11,8 +11,6 @@ Driven and results-oriented AI & Data Science student (3rd-Year Engineering) wit
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyashThengne&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashThengne&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# Projects:
-https://github.com/ShreyashThengne/Content-based-and-Emotion-driven-Music-Recommendation-System
 ---
 [![](https://visitcount.itsvg.in/api?id=ShreyashThengne&icon=5&color=10)](https://visitcount.itsvg.in)
 
