@@ -1,4 +1,4 @@
-![download](https://github.com/ShreyashThengne/ShreyashThengne/assets/105958364/4bb9a5f3-3751-45ea-920f-66de03e64042)# 💫 About Me:
+# 💫 About Me:
 Driven and results-oriented AI & Data Science student (3rd-Year Engineering) with a track record of developing innovative solutions using Python, Web Scraping, ML, and various other DS tech-stack. Passionate about creating impactful visualizations and dashboards. Proficient at SQL and have a good understanding of databases. I have knowledge of AWS as well. Worked on multiple personal projects. I have written some technical blogs as well on medium. I am seeking a Data Science Intern opportunity to apply my skills and contribute to the company’s growth.
 
 ## 🌐 Socials:
